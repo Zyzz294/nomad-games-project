@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequin_UE4/Animations/Crouching.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UH/C1NOQZH6BES50ORUDA0P0M.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequin_UE4/Animations/SK_Mannequin_Crouch_Idle.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequin_UE4/Animations/SK_Mannequin_Crouch_Walk_Fwd.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Crouch/CrouchBS.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequins/Animations/Crouching/Crouch_Walk_Fwd_Rifle_Hip.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequins/Animations/Crouching/Crouch_Idle_Rifle_Hip.uasset",
+				"C:/Users/hamza/OneDrive/Documents/Unreal Projects/NomadeGames/Content/Characters/Mannequins/Animations/Crouching/BS_Crouch.uasset"
+			]
+		}
+	]
+}
